@@ -1,0 +1,51 @@
+{
+  "GradeName": "الصف الأول الإعدادي",
+  "Subjects": [
+    {
+      "Name": "اللغة الإنجليزية",
+      "Terms": [
+        {
+          "Name": "الترم الأول",
+          "Units": [
+            {
+              "Name": "Unit 1: Hello!",
+              "Lessons": [
+                {
+                  "Title": "Lesson 1: Nice to meet you",
+                  "Description": "تعريف النفس والتحيات الأساسية",
+                  "LessonType": "Vocabulary & Conversation",
+                  "EnglishWords": [
+                    {
+                      "EnglishWord": "Welcome",
+                      "ArabicMeaning": "أهلاً بك",
+                      "WordType": "Interjection",
+                      "Verb1": "",
+                      "Verb2": "",
+                      "Verb3": "",
+                      "Example": "Welcome to our school!",
+                      "ExampleArabic": "أهلاً بك في مدرستنا!",
+                      "Notes": "تستخدم للترحيب",
+                      "DifficultyLevel": 1
+                    },
+                    {
+                      "EnglishWord": "Meet",
+                      "ArabicMeaning": "يقابل / يتعرف على",
+                      "WordType": "Verb",
+                      "Verb1": "Meet",
+                      "Verb2": "Met",
+                      "Verb3": "Met",
+                      "Example": "Nice to meet you.",
+                      "ExampleArabic": "سررت بلقائك.",
+                      "Notes": "فعل شاذ",
+                      "DifficultyLevel": 1
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
