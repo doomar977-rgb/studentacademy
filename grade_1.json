@@ -1,5 +1,5 @@
 {
-  "GradeName": "الصف الأول الابتدائي",
+  "GradeName": "الصف الأول الإعدادي",
   "Subjects": [
     {
       "Name": "اللغة العربية",
@@ -13,14 +13,12 @@
                 {
                   "Title": "الدرس الأول: قراءة ونصوص",
                   "Description": "موضوع القراءة الأول",
-                  "LessonType": "Reading",
-                  "Content": "هذا هو محتوى درس القراءة الأول. أهلاً بكم في بداية العام الدراسي، سنتعلم اليوم كيف نقرأ الكلمات البسيطة ونتعرف على الحروف الأساسية من خلال قصة قصيرة وممتعة."
+                  "LessonType": "Reading"
                 },
                 {
                   "Title": "الدرس الثاني: قواعد نحوية",
                   "Description": "الدرس الأول في النحو",
-                  "LessonType": "Grammar",
-                  "Content": "شرح مبسط لقواعد النحو. سنتعرف اليوم على الفرق بين الاسم والفعل، وكيفية تكوين جملة مفيدة بسيطة. مثال: 'شرب الطفل اللبن' (شرب: فعل، الطفل: اسم)."
+                  "LessonType": "Grammar"
                 }
               ]
             },
@@ -30,14 +28,12 @@
                 {
                   "Title": "الدرس الأول: قصة وعبرة",
                   "Description": "موضوع القراءة الثاني",
-                  "LessonType": "Reading",
-                  "Content": "في يوم من الأيام، خرجت نملة صغيرة تبحث عن طعام لفصل الشتاء... (نص القصة يوضح أهمية العمل والاجتهاد والتعاون بين الأصدقاء)."
+                  "LessonType": "Reading"
                 },
                 {
                   "Title": "الدرس الثاني: إملاء وتعبير",
                   "Description": "مهارات الكتابة",
-                  "LessonType": "Writing",
-                  "Content": "قواعد الإملاء الأساسية: متى نكتب التاء المربوطة ومتى نكتب التاء المفتوحة؟ وكيف نرتب أفكارنا لكتابة موضوع تعبير صغير عن فصل الربيع."
+                  "LessonType": "Writing"
                 }
               ]
             }
@@ -52,14 +48,12 @@
                 {
                   "Title": "الدرس الأول: نص شعرى",
                   "Description": "دراسة النصوص",
-                  "LessonType": "Poetry",
-                  "Content": "نص شعري يحث على مكارم الأخلاق وحب الوطن. \nوطني الأغلى في الأوطانِ *** حبه يسري في الوجدانِ \n(يتم هنا شرح الأبيات ومواطن الجمال)."
+                  "LessonType": "Poetry"
                 },
                 {
                   "Title": "الدرس الثاني: النحو المتقدم",
                   "Description": "قواعد نحوية جديدة",
-                  "LessonType": "Grammar",
-                  "Content": "مراجعة على ما سبق ودراسة قواعد نحوية جديدة مثل حروف الجر (من، إلى، عن، على، في، الباء، الكاف، اللام) مع أمثلة إعرابية مبسطة."
+                  "LessonType": "Grammar"
                 }
               ]
             },
@@ -69,14 +63,12 @@
                 {
                   "Title": "الدرس الأول: التعبير الكتابي",
                   "Description": "كتابة الموضوعات",
-                  "LessonType": "Writing",
-                  "Content": "تدريب عملي على التعبير الكتابي. المطلوب: كتابة خمس جمل تصف فيها رحلة قمت بها مع أسرتك إلى حديقة الحيوان."
+                  "LessonType": "Writing"
                 },
                 {
                   "Title": "الدرس الثاني: مراجعة عامة",
                   "Description": "تدريبات شاملة",
-                  "LessonType": "Review",
-                  "Content": "مراجعة عامة وشاملة على جميع وحدات المنهج. تحتوي هذه المراجعة على أسئلة اختيار من متعدد، وأسئلة صح وخطأ، وتدريبات نحوية متنوعة."
+                  "LessonType": "Review"
                 }
               ]
             }
@@ -96,14 +88,12 @@
                 {
                   "Title": "Lesson 1: Hello!",
                   "Description": "Introduction and greetings",
-                  "LessonType": "Vocabulary",
-                  "Content": "Hello! Welcome to the first English lesson. Today we will learn how to greet each other. Words to know: Hello, Goodbye, Good morning, How are you?"
+                  "LessonType": "Vocabulary"
                 },
                 {
                   "Title": "Lesson 2: Grammar Focus",
                   "Description": "Basic verb tenses",
-                  "LessonType": "Grammar",
-                  "Content": "Grammar Focus: Let's learn about the verb 'to be' (am, is, are). Example: I am a student. He is a teacher. They are friends."
+                  "LessonType": "Grammar"
                 }
               ]
             },
@@ -113,14 +103,12 @@
                 {
                   "Title": "Lesson 1: Around Town",
                   "Description": "Places in the city",
-                  "LessonType": "Vocabulary",
-                  "Content": "Vocabulary about places in the city: Hospital, School, Park, Bank, Supermarket. Let's learn how to spell and pronounce them correctly."
+                  "LessonType": "Vocabulary"
                 },
                 {
                   "Title": "Lesson 2: Asking Directions",
                   "Description": "Conversational skills",
-                  "LessonType": "Speaking",
-                  "Content": "Speaking practice: How to ask for directions politely. 'Excuse me, where is the nearest bank?' - 'Go straight and turn left.'"
+                  "LessonType": "Speaking"
                 }
               ]
             }
@@ -135,14 +123,12 @@
                 {
                   "Title": "Lesson 1: In the Future",
                   "Description": "Talking about future plans",
-                  "LessonType": "Grammar",
-                  "Content": "Future forms: Using 'will' and 'going to' for future plans. Example: 'I will visit my grandma tomorrow.' 'She is going to study hard.'"
+                  "LessonType": "Grammar"
                 },
                 {
                   "Title": "Lesson 2: Science and Tech",
                   "Description": "Modern inventions",
-                  "LessonType": "Reading",
-                  "Content": "Reading passage about modern inventions and technology. We use smartphones, computers, and the internet every day to learn and communicate."
+                  "LessonType": "Reading"
                 }
               ]
             },
@@ -152,14 +138,12 @@
                 {
                   "Title": "Lesson 1: Sports Day",
                   "Description": "Athletics and hobbies",
-                  "LessonType": "Vocabulary",
-                  "Content": "Sports vocabulary: Football, Tennis, Swimming, Basketball, Running. What is your favorite sport? I like playing tennis."
+                  "LessonType": "Vocabulary"
                 },
                 {
                   "Title": "Lesson 2: Review and Test",
                   "Description": "Term evaluation",
-                  "LessonType": "Review",
-                  "Content": "Comprehensive review of the term. Please read the passage carefully and answer the questions below to prepare for the final test."
+                  "LessonType": "Review"
                 }
               ]
             }
@@ -179,14 +163,12 @@
                 {
                   "Title": "الدرس الأول: الأعداد النسبية",
                   "Description": "مفهوم الأعداد النسبية",
-                  "LessonType": "Algebra",
-                  "Content": "شرح مبسط لمفهوم الأعداد النسبية. العدد النسبي هو أي عدد يمكن كتابته على صورة بسط ومقام (أ/ب) بشرط أن المقام (ب) لا يساوي صفراً."
+                  "LessonType": "Algebra"
                 },
                 {
                   "Title": "الدرس الثاني: جمع وطرح الأعداد النسبية",
                   "Description": "العمليات الحسابية",
-                  "LessonType": "Algebra",
-                  "Content": "خطوات جمع وطرح الأعداد النسبية: أولاً يجب التأكد من توحيد المقامات، ثم نقوم بجمع أو طرح البسوط مع بقاء المقام كما هو."
+                  "LessonType": "Algebra"
                 }
               ]
             },
@@ -196,14 +178,12 @@
                 {
                   "Title": "الدرس الأول: المفاهيم الهندسية الأساسية",
                   "Description": "القطعة المستقيمة والزاية",
-                  "LessonType": "Geometry",
-                  "Content": "تعريف القطعة المستقيمة (لها بداية ونهاية)، الشعاع (له بداية وليس له نهاية)، والخط المستقيم (ليس له بداية ولا نهاية). والزاوية هي اتحاد شعاعين لهما نفس نقطة البداية."
+                  "LessonType": "Geometry"
                 },
                 {
                   "Title": "الدرس الثاني: تطابق المثلثات",
                   "Description": "شروط التطابق",
-                  "LessonType": "Geometry",
-                  "Content": "حالات تطابق المثلثين: يتطابق المثلثان إذا تطابق (ضلعان وزاوية محصورة)، أو (زاويتان وضلع)، أو (ثلاثة أضلاع)، أو (وتر وضلع في المثلث القائم)."
+                  "LessonType": "Geometry"
                 }
               ]
             }
@@ -218,14 +198,12 @@
                 {
                   "Title": "الدرس الأول: الحدوديات",
                   "Description": "جمع وطرح الحدود الجبرية",
-                  "LessonType": "Algebra",
-                  "Content": "الحد الجبري والمقدار الجبري. عند جمع وطرح الحدود الجبرية، نقوم بجمع أو طرح المعاملات للحدود المتشابهة فقط (التي لها نفس الرموز والأسس)."
+                  "LessonType": "Algebra"
                 },
                 {
                   "Title": "الدرس الثاني: تحليل المقادير الجبرية",
                   "Description": "طرق التحليل",
-                  "LessonType": "Algebra",
-                  "Content": "طرق تحليل المقادير الجبرية: 1. إخراج العامل المشترك الأعلى (ع.م.أ). 2. تحليل الفرق بين مربعين. 3. تحليل المقدار الثلاثي المربع الكامل."
+                  "LessonType": "Algebra"
                 }
               ]
             },
@@ -235,14 +213,12 @@
                 {
                   "Title": "الدرس الأول: الإحصاء والوسط الحسابي",
                   "Description": "مقاييس النزعة المركزية",
-                  "LessonType": "Statistics",
-                  "Content": "مقاييس النزعة المركزية: الوسط الحسابي = (مجموع القيم ÷ عددها). الوسيط هو القيمة التي تتوسط المجموعة بعد ترتيبها. المنوال هو القيمة الأكثر تكراراً."
+                  "LessonType": "Statistics"
                 },
                 {
                   "Title": "الدرس الثاني: الاحتمال",
                   "Description": "مفهوم الاحتمال الرياضي",
-                  "LessonType": "Statistics",
-                  "Content": "الاحتمال الرياضي: احتمال وقوع حدث = (عدد نواتج الحدث ÷ العدد الكلي للنواتج الممكنة). احتمال الحدث المؤكد = 1، واحتمال الحدث المستحيل = 0."
+                  "LessonType": "Statistics"
                 }
               ]
             }
@@ -262,14 +238,12 @@
                 {
                   "Title": "الدرس الأول: وحدة وقيام حضارة",
                   "Description": "العصور التاريخية",
-                  "LessonType": "History",
-                  "Content": "مقدمة عن العصور التاريخية. كيف بدأ الإنسان المصري القديم حياته فوق الهضاب ثم نزل إلى وادي النيل ليتعلم الزراعة والاستقرار، مما أدى لقيام أعظم حضارة."
+                  "LessonType": "History"
                 },
                 {
                   "Title": "الدرس الثاني: عصور بناة الأهرامات",
                   "Description": "الدولة القديمة",
-                  "LessonType": "History",
-                  "Content": "عصر بناة الأهرامات (الدولة القديمة): سُمي بهذا الاسم لكثرة ما بناه ملوك هذا العصر من أهرامات ضخمة امتدت من الفيوم جنوباً حتى الجيزة شمالاً."
+                  "LessonType": "History"
                 }
               ]
             },
@@ -279,14 +253,12 @@
                 {
                   "Title": "الدرس الأول: عصر الرخاء الاقتصادى",
                   "Description": "الدولة الوسطى",
-                  "LessonType": "History",
-                  "Content": "عصر الرخاء الاقتصادي (الدولة الوسطى): اهتم ملوك هذا العصر بإقامة المشروعات لاستثمار الموارد الطبيعية للنهوض بالبلاد في مختلف المجالات (الزراعة والصناعة)."
+                  "LessonType": "History"
                 },
                 {
                   "Title": "الدرس الثاني: غزو الهكسوس",
                   "Description": "فترة الضعف والاحتلال",
-                  "LessonType": "History",
-                  "Content": "عصر الاضمحلال الثاني وغزو الهكسوس لمصر. الهكسوس هم قبائل بدوية جاءت من آسيا واحتلوا مصر، حتى قاد أمراء طيبة (أحمس) الكفاح ونجحوا في طردهم."
+                  "LessonType": "History"
                 }
               ]
             }
@@ -301,14 +273,12 @@
                 {
                   "Title": "الدرس الأول: عصر المجد الحربي",
                   "Description": "الدولة الحديثة والفراعنة العظام",
-                  "LessonType": "History",
-                  "Content": "عصر المجد الحربي: سُمي بذلك لأن ملوك هذه الدولة اهتموا باتساع ملكهم وخاضوا العديد من المعارك وحققوا انتصارات عظيمة (مثل تحتمس الثالث ورمسيس الثاني)."
+                  "LessonType": "History"
                 },
                 {
                   "Title": "الدرس الثاني: الحياة الثقافية والفكرية",
                   "Description": "العلوم والفنون عند المصريين القدماء",
-                  "LessonType": "History",
-                  "Content": "الحياة الثقافية والفكرية: أبدع المصريون القدماء في مجالات العلوم (الطب، الفلك، الحساب، والهندسة) والعمارة والفنون، وتركوا لنا آثاراً تدل على براعتهم."
+                  "LessonType": "History"
                 }
               ]
             },
@@ -318,14 +288,12 @@
                 {
                   "Title": "الدرس الأول: الحياة السياسية والاجتماعية",
                   "Description": "نظام الحكم والطبقات",
-                  "LessonType": "History",
-                  "Content": "الحياة السياسية: تكوّن نظام الحكم في مصر القديمة من (الفرعون، الوزير، حكام الأقاليم). أما المجتمع فقد انقسم لطبقات أعلاها طبقة الفرعون وأسرته."
+                  "LessonType": "History"
                 },
                 {
                   "Title": "الدرس الثاني: الدين والعمارة",
                   "Description": "المعابد والاعتقادات الدينية",
-                  "LessonType": "History",
-                  "Content": "خصائص الحياة الدينية في مصر القديمة: تعدد الآلهة، الاعتقاد في البعث والخلود (لذلك بنوا الأهرامات كقابر حصينة وحنطوا جثث موتاهم)، والاعتقاد في الثواب والعقاب."
+                  "LessonType": "History"
                 }
               ]
             }
