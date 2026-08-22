@@ -39,6 +39,26 @@
                       "Notes": "فعل شاذ",
                       "DifficultyLevel": 1
                     }
+                  ],
+                  "Questions": [
+                    {
+                      "QuestionText": "What do we say when someone arrives?",
+                      "OptionA": "Goodbye",
+                      "OptionB": "Welcome",
+                      "OptionC": "Sleep",
+                      "OptionD": "Run",
+                      "CorrectAnswer": "Welcome",
+                      "Points": 1
+                    },
+                    {
+                      "QuestionText": "What is the past tense of the verb (Meet)?",
+                      "OptionA": "Meeting",
+                      "OptionB": "Meets",
+                      "OptionC": "Met",
+                      "OptionD": "Meet",
+                      "CorrectAnswer": "Met",
+                      "Points": 2
+                    }
                   ]
                 }
               ]
@@ -72,15 +92,36 @@
                       "Notes": "صفة تدل على النور",
                       "DifficultyLevel": 1
                     },
-                    {"ArabicWord": "صديق",
-  "Meaning": "محبوب ومصاحب للإنسان",
-  "Singular": "صديق",
-  "Plural": "أصدقاء",
-  "Synonym": "صاحب / رفيق",
-  "Antonym": "عدو",
-  "Example": "هيثم صديق مخلص.",
-  "Notes": "اسم مفرد مذكر",
-  "DifficultyLevel": 1
+                    {
+                      "ArabicWord": "صديق",
+                      "Meaning": "محبوب ومصاحب للإنسان",
+                      "Singular": "صديق",
+                      "Plural": "أصدقاء",
+                      "Synonym": "صاحب / رفيق",
+                      "Antonym": "عدو",
+                      "Example": "هيثم صديق مخلص.",
+                      "Notes": "اسم مفرد مذكر",
+                      "DifficultyLevel": 1
+                    }
+                  ],
+                  "Questions": [
+                    {
+                      "QuestionText": "ما مضاد كلمة (مشرق)؟",
+                      "OptionA": "منير",
+                      "OptionB": "مظلم",
+                      "OptionC": "لامع",
+                      "OptionD": "جميل",
+                      "CorrectAnswer": "مظلم",
+                      "Points": 1
+                    },
+                    {
+                      "QuestionText": "ما جمع كلمة (صديق)؟",
+                      "OptionA": "أصدقاء",
+                      "OptionB": "أصداق",
+                      "OptionC": "صداقات",
+                      "OptionD": "صُحبة",
+                      "CorrectAnswer": "أصدقاء",
+                      "Points": 1
                     }
                   ]
                 }
