@@ -46,6 +46,50 @@
           ]
         }
       ]
+    },
+    {
+      "Name": "اللغة العربية",
+      "Terms": [
+        {
+          "Name": "الترم الأول",
+          "Units": [
+            {
+              "Name": "الوحدة الأولى: أصحابي والبيئة",
+              "Lessons": [
+                {
+                  "Title": "الدرس الأول: نشيد أحياناً",
+                  "Description": "قراءة وتدريبات على اللغويات والمفردات",
+                  "LessonType": "Vocabulary & Expressions",
+                  "ArabicWords": [
+                    {
+                      "ArabicWord": "مشرق",
+                      "Meaning": "منير ولامع",
+                      "Singular": "مشرق",
+                      "Plural": "مشارق",
+                      "Synonym": "منور / مضيء",
+                      "Antonym": "مظلم",
+                      "Example": "الصباح مشرق وجميل.",
+                      "Notes": "صفة تدل على النور",
+                      "DifficultyLevel": 1
+                    },
+                    {
+                      "ArabicWord": "صديق",
+                      "Meaning": "محبوب ومصاحب للإنسان",
+                      "Singular": "صديق",
+                      "Plural": "أصدقاء",
+                      "Synonym": "صاحب / رفيق",
+                      "Antonym": "عدو",
+                      "Example":هيثم صديق مخلص.",
+                      "Notes": "اسم مفرد مذكر",
+                      "DifficultyLevel": 1
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
     }
   ]
 }
