@@ -1,6 +1,6 @@
 {
   "latestVersion": "1.1.0",
   "versionCode": 2,
-  "updateUrl": "https://github.com/doomar977-rgb/studentacademy/releases",
+  "updateUrl": "https://github.com/doomar977-rgb/studentacademy/releases/tag/v1.0.0",
   "releaseNotes": "إصلاح بعض الأخطاء وإضافة ميزات جديدة لتحسين التجربة."
 }
