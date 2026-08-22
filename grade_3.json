@@ -72,16 +72,15 @@
                       "Notes": "صفة تدل على النور",
                       "DifficultyLevel": 1
                     },
-                    {
-                      "ArabicWord": "صديق",
-                      "Meaning": "محبوب ومصاحب للإنسان",
-                      "Singular": "صديق",
-                      "Plural": "أصدقاء",
-                      "Synonym": "صاحب / رفيق",
-                      "Antonym": "عدو",
-                      "Example":هيثم صديق مخلص.",
-                      "Notes": "اسم مفرد مذكر",
-                      "DifficultyLevel": 1
+                    {"ArabicWord": "صديق",
+  "Meaning": "محبوب ومصاحب للإنسان",
+  "Singular": "صديق",
+  "Plural": "أصدقاء",
+  "Synonym": "صاحب / رفيق",
+  "Antonym": "عدو",
+  "Example": "هيثم صديق مخلص.",
+  "Notes": "اسم مفرد مذكر",
+  "DifficultyLevel": 1
                     }
                   ]
                 }
