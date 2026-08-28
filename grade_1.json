@@ -7,12 +7,12 @@
       "Terms": [
         {
           "Name": "الترم الأول",
-          "Units": [
+          "الوحدةs": [
             {
-              "Name": "Unit 1",
+              "Name": "الوحدة 1",
               "Lessons": [
                 {
-                  "Title": "Lesson 1",
+                  "Title": " الدرس الاول",
                   "Description": "تعريف النفس والتحيات الأساسية",
                   "LessonType": "Vocabulary & Conversation",
                   "EnglishWords": [
@@ -22,7 +22,7 @@
                   ]
                 },
                 {
-                  "Title": "Lesson 2",
+                  "Title": "الدرس الثانى",
                   "Description": "تعريف النفس والتحيات الأساسية",
                   "LessonType": "Vocabulary & Conversation",
                   "EnglishWords": [
@@ -32,7 +32,7 @@
                   ]
                 },
                 {
-                  "Title": "Lesson 3",
+                  "Title": "الدرس الثالث",
                   "Description": "تعريف النفس والتحيات الأساسية",
                   "LessonType": "Vocabulary & Conversation",
                   "EnglishWords": [
@@ -44,10 +44,10 @@
               ]
             },
             {
-              "Name": "Unit 2",
+              "Name": "الوحدة 2",
               "Lessons": [
                 {
-                  "Title": "Lesson 1",
+                  "Title": "الدرس الاول",
                   "Description": "تعريف النفس والتحيات الأساسية",
                   "LessonType": "Vocabulary & Conversation",
                   "EnglishWords": [
@@ -57,7 +57,7 @@
                   ]
                 },
                 {
-                  "Title": "Lesson 2",
+                  "Title": "الدرس الثاني",
                   "Description": "تعريف النفس والتحيات الأساسية",
                   "LessonType": "Vocabulary & Conversation",
                   "EnglishWords": [
@@ -67,7 +67,7 @@
                   ]
                 },
                 {
-                  "Title": "Lesson 3",
+                  "Title": "الدرس الثالث",
                   "Description": "تعريف النفس والتحيات الأساسية",
                   "LessonType": "Vocabulary & Conversation",
                   "EnglishWords": [
@@ -79,10 +79,10 @@
               ]
             },
             {
-              "Name": "Unit 3",
+              "Name": "الوحدة 3",
               "Lessons": [
                 {
-                  "Title": "Lesson 1",
+                  "Title": "الدرس الاول",
                   "Description": "تعريف النفس والتحيات الأساسية",
                   "LessonType": "Vocabulary & Conversation",
                   "EnglishWords": [
@@ -92,7 +92,7 @@
                   ]
                 },
                 {
-                  "Title": "Lesson 2",
+                  "Title": "الدرس الثاني",
                   "Description": "تعريف النفس والتحيات الأساسية",
                   "LessonType": "Vocabulary & Conversation",
                   "EnglishWords": [
@@ -102,7 +102,7 @@
                   ]
                 },
                 {
-                  "Title": "Lesson 3",
+                  "Title": "الدرس الثالث",
                   "Description": "تعريف النفس والتحيات الأساسية",
                   "LessonType": "Vocabulary & Conversation",
                   "EnglishWords": [
@@ -114,10 +114,10 @@
               ]
             },
             {
-              "Name": "Unit 4",
+              "Name": "الوحدة 4",
               "Lessons": [
                 {
-                  "Title": "Lesson 1",
+                  "Title": "الدرس الاول",
                   "Description": "تعريف النفس والتحيات الأساسية",
                   "LessonType": "Vocabulary & Conversation",
                   "EnglishWords": [
@@ -127,7 +127,7 @@
                   ]
                 },
                 {
-                  "Title": "Lesson 2",
+                  "Title": "الدرس الثاني",
                   "Description": "تعريف النفس والتحيات الأساسية",
                   "LessonType": "Vocabulary & Conversation",
                   "EnglishWords": [
@@ -137,7 +137,7 @@
                   ]
                 },
                 {
-                  "Title": "Lesson 3",
+                  "Title": "الدرس الثالث",
                   "Description": "تعريف النفس والتحيات الأساسية",
                   "LessonType": "Vocabulary & Conversation",
                   "EnglishWords": [
@@ -149,10 +149,10 @@
               ]
             },
             {
-              "Name": "Unit 5",
+              "Name": "الوحدة 5",
               "Lessons": [
                 {
-                  "Title": "Lesson 1",
+                  "Title": "الدرس الاول",
                   "Description": "تعريف النفس والتحيات الأساسية",
                   "LessonType": "Vocabulary & Conversation",
                   "EnglishWords": [
@@ -162,7 +162,7 @@
                   ]
                 },
                 {
-                  "Title": "Lesson 2",
+                  "Title": "الدرس الثاني",
                   "Description": "تعريف النفس والتحيات الأساسية",
                   "LessonType": "Vocabulary & Conversation",
                   "EnglishWords": [
@@ -172,7 +172,7 @@
                   ]
                 },
                 {
-                  "Title": "Lesson 3",
+                  "Title": "الدرس الثالث",
                   "Description": "تعريف النفس والتحيات الأساسية",
                   "LessonType": "Vocabulary & Conversation",
                   "EnglishWords": [
@@ -184,10 +184,10 @@
               ]
             },
             {
-              "Name": "Unit 6",
+              "Name": "الوحدة 6",
               "Lessons": [
                 {
-                  "Title": "Lesson 1",
+                  "Title": "الدرس الاول",
                   "Description": "تعريف النفس والتحيات الأساسية",
                   "LessonType": "Vocabulary & Conversation",
                   "EnglishWords": [
@@ -197,7 +197,7 @@
                   ]
                 },
                 {
-                  "Title": "Lesson 2",
+                  "Title": "الدرس الثاني",
                   "Description": "تعريف النفس والتحيات الأساسية",
                   "LessonType": "Vocabulary & Conversation",
                   "EnglishWords": [
@@ -207,7 +207,7 @@
                   ]
                 },
                 {
-                  "Title": "Lesson 3",
+                  "Title": "الدرس الثالث",
                   "Description": "تعريف النفس والتحيات الأساسية",
                   "LessonType": "Vocabulary & Conversation",
                   "EnglishWords": [
@@ -230,32 +230,32 @@
       "Terms": [
         {
           "Name": "الترم الأول",
-          "Units": [
+          "الوحدةs": [
             {
-              "Name": "Unit 1",
+              "Name": "الوحدة 1",
               "Lessons": [
                 {
-                  "Title": "Lesson 1: Hello!",
+                  "Title": "الدرس الاول: Hello!",
                   "Description": "Introduction and greetings",
                   "LessonType": "Vocabulary"
                 },
                 {
-                  "Title": "Lesson 2: Grammar Focus",
+                  "Title": "الدرس الثاني: Grammar Focus",
                   "Description": "Basic verb tenses",
                   "LessonType": "Grammar"
                 }
               ]
             },
             {
-              "Name": "Unit 2",
+              "Name": "الوحدة 2",
               "Lessons": [
                 {
-                  "Title": "Lesson 1: Around Town",
+                  "Title": "الدرس الاول: Around Town",
                   "Description": "Places in the city",
                   "LessonType": "Vocabulary"
                 },
                 {
-                  "Title": "Lesson 2: Asking Directions",
+                  "Title": "الدرس الثاني: Asking Directions",
                   "Description": "Conversational skills",
                   "LessonType": "Speaking"
                 }
@@ -265,32 +265,32 @@
         },
         {
           "Name": "الترم الثاني",
-          "Units": [
+          "الوحدةs": [
             {
-              "Name": "Unit 3",
+              "Name": "الوحدة 3",
               "Lessons": [
                 {
-                  "Title": "Lesson 1: In the Future",
+                  "Title": "الدرس الاول: In the Future",
                   "Description": "Talking about future plans",
                   "LessonType": "Grammar"
                 },
                 {
-                  "Title": "Lesson 2: Science and Tech",
+                  "Title": "الدرس الثاني: Science and Tech",
                   "Description": "Modern inventions",
                   "LessonType": "Reading"
                 }
               ]
             },
             {
-              "Name": "Unit 4",
+              "Name": "الوحدة 4",
               "Lessons": [
                 {
-                  "Title": "Lesson 1: Sports Day",
+                  "Title": "الدرس الاول: Sports Day",
                   "Description": "Athletics and hobbies",
                   "LessonType": "Vocabulary"
                 },
                 {
-                  "Title": "Lesson 2: Review and Test",
+                  "Title": "الدرس الثاني: Review and Test",
                   "Description": "Term evaluation",
                   "LessonType": "Review"
                 }
@@ -305,32 +305,32 @@
       "Terms": [
         {
           "Name": "الترم الأول",
-          "Units": [
+          "الوحدةs": [
             {
-              "Name": "Unit 1",
+              "Name": "الوحدة 1",
               "Lessons": [
                 {
-                  "Title": "Lesson 1: Hello!",
+                  "Title": "الدرس الاول: Hello!",
                   "Description": "Introduction and greetings",
                   "LessonType": "Vocabulary"
                 },
                 {
-                  "Title": "Lesson 2: Grammar Focus",
+                  "Title": "الدرس الثاني: Grammar Focus",
                   "Description": "Basic verb tenses",
                   "LessonType": "Grammar"
                 }
               ]
             },
             {
-              "Name": "Unit 2",
+              "Name": "الوحدة 2",
               "Lessons": [
                 {
-                  "Title": "Lesson 1: Around Town",
+                  "Title": "الدرس الاول: Around Town",
                   "Description": "Places in the city",
                   "LessonType": "Vocabulary"
                 },
                 {
-                  "Title": "Lesson 2: Asking Directions",
+                  "Title": "الدرس الثاني: Asking Directions",
                   "Description": "Conversational skills",
                   "LessonType": "Speaking"
                 }
@@ -340,32 +340,32 @@
         },
         {
           "Name": "الترم الثاني",
-          "Units": [
+          "الوحدةs": [
             {
-              "Name": "Unit 3",
+              "Name": "الوحدة 3",
               "Lessons": [
                 {
-                  "Title": "Lesson 1: In the Future",
+                  "Title": "الدرس الاول: In the Future",
                   "Description": "Talking about future plans",
                   "LessonType": "Grammar"
                 },
                 {
-                  "Title": "Lesson 2: Science and Tech",
+                  "Title": "الدرس الثاني: Science and Tech",
                   "Description": "Modern inventions",
                   "LessonType": "Reading"
                 }
               ]
             },
             {
-              "Name": "Unit 4",
+              "Name": "الوحدة 4",
               "Lessons": [
                 {
-                  "Title": "Lesson 1: Sports Day",
+                  "Title": "الدرس الاول: Sports Day",
                   "Description": "Athletics and hobbies",
                   "LessonType": "Vocabulary"
                 },
                 {
-                  "Title": "Lesson 2: Review and Test",
+                  "Title": "الدرس الثاني: Review and Test",
                   "Description": "Term evaluation",
                   "LessonType": "Review"
                 }
@@ -380,7 +380,7 @@
       "Terms": [
         {
           "Name": "الترم الأول",
-          "Units": [
+          "الوحدةs": [
             {
               "Name": "الوحدة الأولى: الجبر",
               "Lessons": [
@@ -415,7 +415,7 @@
         },
         {
           "Name": "الترم الثاني",
-          "Units": [
+          "الوحدةs": [
             {
               "Name": "الوحدة الأولى: الجبر",
               "Lessons": [
@@ -455,7 +455,7 @@
       "Terms": [
         {
           "Name": "الترم الأول",
-          "Units": [
+          "الوحدةs": [
             {
               "Name": "الوحدة الأولى: مصر في عصر الدولة القديمة",
               "Lessons": [
@@ -490,7 +490,7 @@
         },
         {
           "Name": "الترم الثاني",
-          "Units": [
+          "الوحدةs": [
             {
               "Name": "الوحدة الأولى: مصر في عصر الدولة الحديثة",
               "Lessons": [
