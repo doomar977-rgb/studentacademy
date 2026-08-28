@@ -3,47 +3,261 @@
   "Subjects": [
     {
       "Name": "اللغة العربية",
+     
       "Terms": [
         {
           "Name": "الترم الأول",
           "Units": [
             {
-              "Name": "الوحدة الأولى",
+              "Name": "Unit 1",
               "Lessons": [
                 {
-                  "Title": "الدرس الأول: قراءة ونصوص",
-                  "Description": "موضوع القراءة الأول",
-                  "LessonType": "Reading",
-                  "Contents": [
+                  "Title": "Lesson 1",
+                  "Description": "تعريف النفس والتحيات الأساسية",
+                  "LessonType": "Vocabulary & Conversation",
+                  "EnglishWords": [
                     {
-                      "Title": "مقدمة الدرس",
-                      "ContentText": "هنا نكتب شرح مقدمة الدرس الأول بالتفصيل..."
-                    },
-                    {
-                      "Title": "شرح الفقرة الأولى",
-                      "ContentText": "هنا نكتب شرح الفقرة الأولى من النص المقروء..."
+                      
                     }
                   ]
                 },
                 {
-                  "Title": "الدرس الثاني: قواعد نحوية",
-                  "Description": "الدرس الأول في النحو",
+                  "Title": "Lesson 2",
+                  "Description": "تعريف النفس والتحيات الأساسية",
+                  "LessonType": "Vocabulary & Conversation",
+                  "EnglishWords": [
+                    {
+                     
+                    }
+                  ]
+                },
+                {
+                  "Title": "Lesson 3",
+                  "Description": "تعريف النفس والتحيات الأساسية",
+                  "LessonType": "Vocabulary & Conversation",
+                  "EnglishWords": [
+                    {
+                      
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "Name": "Unit 2",
+              "Lessons": [
+                {
+                  "Title": "Lesson 1",
+                  "Description": "تعريف النفس والتحيات الأساسية",
+                  "LessonType": "Vocabulary & Conversation",
+                  "EnglishWords": [
+                    {
+                      
+                    }
+                  ]
+                },
+                {
+                  "Title": "Lesson 2",
+                  "Description": "تعريف النفس والتحيات الأساسية",
+                  "LessonType": "Vocabulary & Conversation",
+                  "EnglishWords": [
+                    {
+                     
+                    }
+                  ]
+                },
+                {
+                  "Title": "Lesson 3",
+                  "Description": "تعريف النفس والتحيات الأساسية",
+                  "LessonType": "Vocabulary & Conversation",
+                  "EnglishWords": [
+                    {
+                      
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "Name": "Unit 3",
+              "Lessons": [
+                {
+                  "Title": "Lesson 1",
+                  "Description": "تعريف النفس والتحيات الأساسية",
+                  "LessonType": "Vocabulary & Conversation",
+                  "EnglishWords": [
+                    {
+                      
+                    }
+                  ]
+                },
+                {
+                  "Title": "Lesson 2",
+                  "Description": "تعريف النفس والتحيات الأساسية",
+                  "LessonType": "Vocabulary & Conversation",
+                  "EnglishWords": [
+                    {
+                     
+                    }
+                  ]
+                },
+                {
+                  "Title": "Lesson 3",
+                  "Description": "تعريف النفس والتحيات الأساسية",
+                  "LessonType": "Vocabulary & Conversation",
+                  "EnglishWords": [
+                    {
+                      
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "Name": "Unit 4",
+              "Lessons": [
+                {
+                  "Title": "Lesson 1",
+                  "Description": "تعريف النفس والتحيات الأساسية",
+                  "LessonType": "Vocabulary & Conversation",
+                  "EnglishWords": [
+                    {
+                     
+                    }
+                  ]
+                },
+                {
+                  "Title": "Lesson 2",
+                  "Description": "تعريف النفس والتحيات الأساسية",
+                  "LessonType": "Vocabulary & Conversation",
+                  "EnglishWords": [
+                    {
+                      
+                    }
+                  ]
+                },
+                {
+                  "Title": "Lesson 3",
+                  "Description": "تعريف النفس والتحيات الأساسية",
+                  "LessonType": "Vocabulary & Conversation",
+                  "EnglishWords": [
+                    {
+                      
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "Name": "Unit 5",
+              "Lessons": [
+                {
+                  "Title": "Lesson 1",
+                  "Description": "تعريف النفس والتحيات الأساسية",
+                  "LessonType": "Vocabulary & Conversation",
+                  "EnglishWords": [
+                    {
+                      
+                    }
+                  ]
+                },
+                {
+                  "Title": "Lesson 2",
+                  "Description": "تعريف النفس والتحيات الأساسية",
+                  "LessonType": "Vocabulary & Conversation",
+                  "EnglishWords": [
+                    {
+                      
+                    }
+                  ]
+                },
+                {
+                  "Title": "Lesson 3",
+                  "Description": "تعريف النفس والتحيات الأساسية",
+                  "LessonType": "Vocabulary & Conversation",
+                  "EnglishWords": [
+                    {
+                      
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "Name": "Unit 6",
+              "Lessons": [
+                {
+                  "Title": "Lesson 1",
+                  "Description": "تعريف النفس والتحيات الأساسية",
+                  "LessonType": "Vocabulary & Conversation",
+                  "EnglishWords": [
+                    {
+                      
+                    }
+                  ]
+                },
+                {
+                  "Title": "Lesson 2",
+                  "Description": "تعريف النفس والتحيات الأساسية",
+                  "LessonType": "Vocabulary & Conversation",
+                  "EnglishWords": [
+                    {
+                     
+                    }
+                  ]
+                },
+                {
+                  "Title": "Lesson 3",
+                  "Description": "تعريف النفس والتحيات الأساسية",
+                  "LessonType": "Vocabulary & Conversation",
+                  "EnglishWords": [
+                    {
+                      
+                   
+                     
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+
+    },
+    {
+      "Name": "اللغة الإنجليزية",
+      "Terms": [
+        {
+          "Name": "الترم الأول",
+          "Units": [
+            {
+              "Name": "Unit 1",
+              "Lessons": [
+                {
+                  "Title": "Lesson 1: Hello!",
+                  "Description": "Introduction and greetings",
+                  "LessonType": "Vocabulary"
+                },
+                {
+                  "Title": "Lesson 2: Grammar Focus",
+                  "Description": "Basic verb tenses",
                   "LessonType": "Grammar"
                 }
               ]
             },
             {
-              "Name": "الوحدة الثانية",
+              "Name": "Unit 2",
               "Lessons": [
                 {
-                  "Title": "الدرس الأول: قصة وعبرة",
-                  "Description": "موضوع القراءة الثاني",
-                  "LessonType": "Reading"
+                  "Title": "Lesson 1: Around Town",
+                  "Description": "Places in the city",
+                  "LessonType": "Vocabulary"
                 },
                 {
-                  "Title": "الدرس الثاني: إملاء وتعبير",
-                  "Description": "مهارات الكتابة",
-                  "LessonType": "Writing"
+                  "Title": "Lesson 2: Asking Directions",
+                  "Description": "Conversational skills",
+                  "LessonType": "Speaking"
                 }
               ]
             }
@@ -53,31 +267,31 @@
           "Name": "الترم الثاني",
           "Units": [
             {
-              "Name": "الوحدة الأولى",
+              "Name": "Unit 3",
               "Lessons": [
                 {
-                  "Title": "الدرس الأول: نص شعرى",
-                  "Description": "دراسة النصوص",
-                  "LessonType": "Poetry"
+                  "Title": "Lesson 1: In the Future",
+                  "Description": "Talking about future plans",
+                  "LessonType": "Grammar"
                 },
                 {
-                  "Title": "الدرس الثاني: النحو المتقدم",
-                  "Description": "قواعد نحوية جديدة",
-                  "LessonType": "Grammar"
+                  "Title": "Lesson 2: Science and Tech",
+                  "Description": "Modern inventions",
+                  "LessonType": "Reading"
                 }
               ]
             },
             {
-              "Name": "الوحدة الثانية",
+              "Name": "Unit 4",
               "Lessons": [
                 {
-                  "Title": "الدرس الأول: التعبير الكتابي",
-                  "Description": "كتابة الموضوعات",
-                  "LessonType": "Writing"
+                  "Title": "Lesson 1: Sports Day",
+                  "Description": "Athletics and hobbies",
+                  "LessonType": "Vocabulary"
                 },
                 {
-                  "Title": "الدرس الثاني: مراجعة عامة",
-                  "Description": "تدريبات شاملة",
+                  "Title": "Lesson 2: Review and Test",
+                  "Description": "Term evaluation",
                   "LessonType": "Review"
                 }
               ]
@@ -86,8 +300,8 @@
         }
       ]
     },
-    {
-      "Name": "اللغة الإنجليزية",
+     {
+      "Name": "2اللغة الإنجليزية",
       "Terms": [
         {
           "Name": "الترم الأول",
